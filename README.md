@@ -116,6 +116,21 @@ cloudfit-devops/
 - **Actions**: “Crie um workflow com jobs de testes Python, validação do Terraform e um job de deploy simulado que só roda no push para `main`.”
 - **README**: “Escreva instruções de execução local, validação do Terraform e steps do pipeline.”
 
+
+---
+
+## 📷 Evidências
+
+**Rota `/status`**
+![Status OK](images/status-ok.jpg)
+
+**Terraform `validate`**
+![Terraform validate success](images/tf-validate-success.jpg)
+
+**Testes (pytest)**
+![Pytest 1 passed](images/pytest-1-passed.jpg)
+
+
 ---
 
 ## 📄 Licença
